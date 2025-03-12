@@ -7,6 +7,7 @@ I'm an experienced **British Web Developer** and hobbyist game developer current
 Feel free to reach out at hello@mikenew.xyz.
 
 # Skills
+
 <div>
   <img src="/assets/icons/javascript.png" alt="javascript" width="50px"/>
   <img src="/assets/icons/typescript.png" alt="typescript" width="50px"/>
@@ -27,3 +28,6 @@ Feel free to reach out at hello@mikenew.xyz.
   <img src="/assets/icons/figma.png" alt="figma" width="50px"/>
 </div>
 
+# Showcase
+
+<img src="/assets/showcase/showcase-1.png" alt="showcase-1" width="100%"/>
