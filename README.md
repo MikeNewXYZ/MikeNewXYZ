@@ -1,1 +1,1 @@
-![profile banner](/assets/profile-banner.png)
+<img src="/assets/profile-banner.png" alt="profile banner" width="100%"/>
