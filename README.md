@@ -31,3 +31,4 @@ Feel free to reach out at hello@mikenew.xyz.
 # Showcase
 
 <img src="/assets/showcase/showcase-1.png" alt="showcase-1" width="100%"/>
+<img src="/assets/showcase/showcase-2.png" alt="showcase-2" width="100%"/>
