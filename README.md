@@ -2,7 +2,9 @@
 
 # Hello 👋, I'm Mike
 
-I'm a experienced **British Web Developer** and hobbyist game developer, currently learning Rust. I currently working as a **Freelance Web Developer**, developing bespoke marketing, blog and eccommerce sites for my clients. You can contact me at [hello@mikenew.xyz](mailto:hello@mikenew.xyz).
+I'm an experienced **British Web Developer** and hobbyist game developer currently learning Rust. I currently work as a freelance web developer crafting bespoke marketing, blogging, and e-commerce sites for clients. I’m passionate about open-source projects, building tailored websites, and mastering new technologies. My favourite tools include TypeScript, ReactJS, NextJS, TailwindCSS, and Jamstack.
+
+Feel free to reach out at hello@mikenew.xyz.
 
 # Skills
 <div>
